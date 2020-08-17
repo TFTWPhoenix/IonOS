@@ -8,6 +8,8 @@ namespace IonOS
     {
 
         public static string verName = "Aurora";
+        public static string username = "";
+        public static bool runSetup = false;
 
     }
 }
