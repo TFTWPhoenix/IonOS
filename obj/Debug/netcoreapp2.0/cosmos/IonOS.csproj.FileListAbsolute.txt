@@ -1,0 +1,9 @@
+C:\Users\TFTWPhoenix\source\repos\IonOS\IonOS\bin\Debug\netcoreapp2.0\cosmos\IonOS.deps.json
+C:\Users\TFTWPhoenix\source\repos\IonOS\IonOS\bin\Debug\netcoreapp2.0\cosmos\IonOS.dll
+C:\Users\TFTWPhoenix\source\repos\IonOS\IonOS\bin\Debug\netcoreapp2.0\cosmos\IonOS.pdb
+C:\Users\TFTWPhoenix\source\repos\IonOS\IonOS\obj\Debug\netcoreapp2.0\cosmos\IonOS.csprojAssemblyReference.cache
+C:\Users\TFTWPhoenix\source\repos\IonOS\IonOS\obj\Debug\netcoreapp2.0\cosmos\IonOS.AssemblyInfoInputs.cache
+C:\Users\TFTWPhoenix\source\repos\IonOS\IonOS\obj\Debug\netcoreapp2.0\cosmos\IonOS.AssemblyInfo.cs
+C:\Users\TFTWPhoenix\source\repos\IonOS\IonOS\obj\Debug\netcoreapp2.0\cosmos\IonOS.csproj.CoreCompileInputs.cache
+C:\Users\TFTWPhoenix\source\repos\IonOS\IonOS\obj\Debug\netcoreapp2.0\cosmos\IonOS.dll
+C:\Users\TFTWPhoenix\source\repos\IonOS\IonOS\obj\Debug\netcoreapp2.0\cosmos\IonOS.pdb
