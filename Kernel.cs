@@ -9,12 +9,13 @@ namespace IonOS
     public class Kernel : Sys.Kernel
     {
         // Create the filesystem
-        Sys.FileSystem.CosmosVFS fs = new Sys.FileSystem.CosmosVFS();
+        public static Sys.FileSystem.CosmosVFS fs = new Sys.FileSystem.CosmosVFS();
         protected override void BeforeRun()
         {
             Console.WriteLine("");
             // Register the filesystem.
             Sys.FileSystem.VFS.VFSManager.RegisterVFS(fs);
+            
             Console.Clear();
         }
 
