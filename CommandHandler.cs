@@ -24,6 +24,7 @@ namespace IonOS
                 Console.WriteLine("rm <file> - Delete a file");
                 Console.WriteLine("rmd <dir> - Delete a directory");
                 Console.WriteLine("edit <file> - Edits a file or makes a new one if the file doesn't exist");
+                Console.WriteLine("ion <code> - Executes a line of Ion code.");
 
             }
             else if (command == "shutdown")
@@ -193,6 +194,11 @@ namespace IonOS
 
                 
                 
+            } else if (command.StartsWith("ion "))
+            {
+
+                ion.CodeHandler.execute(command.Split("ion ")[1]);
+
             }
 
         }
